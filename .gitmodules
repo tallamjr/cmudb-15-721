@@ -1,0 +1,3 @@
+[submodule "terrier"]
+	path = terrier
+	url = git@github.com:tallamjr/terrier.git
