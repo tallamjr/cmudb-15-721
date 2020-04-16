@@ -9,3 +9,5 @@ Material for Carnegie Mellon University's Advanced Database Systems (Spring 2020
 > be in the context of a real in-memory, multi-core database system. The course is appropriate for
 > graduate students in software systems and for advanced undergraduates with dirty systems programming
 > skills.
+
+[Youtube Playlist](https://www.youtube.com/playlist?list=PLSE8ODhjZXjasmrEd2_Yi1deeE360zv5O)
