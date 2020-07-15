@@ -11,3 +11,17 @@ Material for Carnegie Mellon University's Advanced Database Systems (Spring 2020
 > skills.
 
 [Youtube Playlist](https://www.youtube.com/playlist?list=PLSE8ODhjZXjasmrEd2_Yi1deeE360zv5O)
+
+**Material downloaded with:**
+
+```bash
+$ wget \
+    --accept pdf,jpg \
+    --mirror \
+    --page-requisites \
+    --adjust-extension \
+    --convert-links \
+    --backup-converted \
+    --no-parent \
+    https://15721.courses.cs.cmu.edu/spring2020/schedule.html
+```
